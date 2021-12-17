@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spam.mashanz.com/static/css/main.073c9b0a.css",
-    "main.js": "/spam.mashanz.com/static/js/main.62ba22ce.js",
-    "static/js/787.d03f1f12.chunk.js": "/spam.mashanz.com/static/js/787.d03f1f12.chunk.js",
-    "static/media/logo.svg": "/spam.mashanz.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/spam.mashanz.com/index.html",
-    "main.073c9b0a.css.map": "/spam.mashanz.com/static/css/main.073c9b0a.css.map",
-    "main.62ba22ce.js.map": "/spam.mashanz.com/static/js/main.62ba22ce.js.map",
-    "787.d03f1f12.chunk.js.map": "/spam.mashanz.com/static/js/787.d03f1f12.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f9d68411.js",
+    "static/js/787.d03f1f12.chunk.js": "/static/js/787.d03f1f12.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f9d68411.js.map": "/static/js/main.f9d68411.js.map",
+    "787.d03f1f12.chunk.js.map": "/static/js/787.d03f1f12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.62ba22ce.js"
+    "static/js/main.f9d68411.js"
   ]
 }
